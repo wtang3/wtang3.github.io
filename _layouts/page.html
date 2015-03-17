@@ -14,10 +14,17 @@
 
 {% if page.image.feature %}
 <div class="entry-header">
+{% if page.image.feature  contains 'http'%}
+  <div class="entry-image"><img src="{{ page.image.feature }}" alt="{{ page.title }}" itemprop="image">
+    {% if page.image.credit %}<div class="image-credit">Image source: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></div><!-- /.image-credit -->{% endif %}
+  </div><!-- /.entry-image -->
+</div><!-- /.entry-header -->
+{% else %}
   <div class="entry-image"><img src="{{ site.url }}/images/{{ page.image.feature }}" alt="{{ page.title }}" itemprop="image">
     {% if page.image.credit %}<div class="image-credit">Image source: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></div><!-- /.image-credit -->{% endif %}
   </div><!-- /.entry-image -->
 </div><!-- /.entry-header -->
+{% endif %}
 {% endif %}
 
 <div id="main" role="main" itemprop="mainContentOfPage">
