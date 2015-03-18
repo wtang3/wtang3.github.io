@@ -4,7 +4,7 @@ title:            William Tang
 description:      "William Tang's blog on many many stuff"
 disqus_shortname: wtang3
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://wtang3.github.io         
+url:              #http://wtang3.github.io         
 
 site: 
 
