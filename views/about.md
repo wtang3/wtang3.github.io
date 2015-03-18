@@ -5,7 +5,7 @@ htmltitle: About | Tang
 title: About Me
 tags: []
 image: 
-  feature: clouds2.png
+  feature: clouds.png
   credit: tukut
   creditlink: http://www.wallpapervortex.com/wallpaper-22940_anime_scenery.html#.VQjPMhDF9UM
 share: true
