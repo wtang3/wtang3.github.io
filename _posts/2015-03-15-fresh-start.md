@@ -6,7 +6,7 @@ description: ""
 modified: 
 tags: [Jekyll, Google+, AngularJS]
 image:
-  feature: space-lol.jpg
+  feature: space-lol.png
   credit: fanpop
   creditlink: http://www.fanpop.com/clubs/space/images/34881513/title/space-lols-photo
 comments: true
