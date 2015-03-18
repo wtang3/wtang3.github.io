@@ -5,9 +5,9 @@ htmltitle: About | Tang
 title: About Me
 tags: []
 image: 
-  feature: island-resort.png
-  credit: techagesite.com
-  creditlink: http://techagesite.com
+  feature: clouds.png
+  credit: tukut
+  creditlink: http://www.wallpapervortex.com/wallpaper-22940_anime_scenery.html#.VQjPMhDF9UM
 share: true
 ---
 
