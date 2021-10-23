@@ -1,10 +1,14 @@
 ---
+title: Fresh Start ...
+date: 2015-03-15 00:00:00 -04:00
+tags:
+- Jekyll
+- Google+
+- AngularJS
 layout: post
 htmltitle: Fresh Start
-title: Fresh Start ...
-description: ""
+description: ''
 modified: 
-tags: [Jekyll, Google+, AngularJS]
 image:
   feature: space-lol.png
   credit: fanpop

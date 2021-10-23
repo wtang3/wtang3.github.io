@@ -1,10 +1,10 @@
 ---
-layout: page
-permalink: /about/
-htmltitle: About | Tang
 title: About Me
+permalink: "/about/"
+layout: page
+htmltitle: About | Tang
 tags: []
-image: 
+image:
   feature: clouds.png
   credit: tukut
   creditlink: http://www.wallpapervortex.com/wallpaper-22940_anime_scenery.html#.VQjPMhDF9UM

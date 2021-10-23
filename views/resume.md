@@ -1,8 +1,8 @@
 ---
+title: Resume
+permalink: "/resume/"
 layout: page
 htmltitle: tang's | resume
-permalink: /resume/
-title: Resume
 tags: []
 share: true
 ---
